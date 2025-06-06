@@ -39,6 +39,11 @@ Desenvolver uma API RESTful robusta para gestão de queimadas, utilizando princ�
 
 ---
 
+
+## Vídeo Explicativo
+
+- `https://www.youtube.com/watch?v=v90GH_2ECCE&ab_channel=KaioMeireles`
+
 ## ▶️ Como executar
 
 1. Clone o projeto:
